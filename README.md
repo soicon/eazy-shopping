@@ -1,2 +1,2 @@
 # Eazy-shopping
-React-Native ecommerce app for iOS
+React-Native ecommerce app for bot platform
